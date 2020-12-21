@@ -7,13 +7,13 @@ Hi. I'm Jonas, a guy who lives in Brazil and is totally passionate about technol
 I am currently studying mobile development and working on personal projects directly from my couch.
 
 <details>
-<summary><strong>Github Stats</strong> <i>(click to expand)</></summary>
+<summary><strong>Github Stats</strong> <i>(click to expand)</i></summary>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=jonasGN&show_icons=true&theme=radical&count_private=true&theme=nord">
 </details>
 
 <details>
-<summary><strong>Top langs</strong> <i>(click to expand)</></summary>
+<summary><strong>Top langs</strong> <i>(click to expand)</i></summary>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantux&layout=compact">
 </details>
