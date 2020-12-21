@@ -15,6 +15,6 @@ I am currently studying mobile development and working on personal projects dire
 <details>
 <summary><strong>Top langs</strong> <i>(click to expand)</i></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantux&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasGN&layout=compact">
 </details>
 
