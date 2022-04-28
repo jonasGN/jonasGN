@@ -1,6 +1,7 @@
-<h1 style="display: flex; align-items: center">Hello, i'm Jonas Gonçalves <img widht="58" height="58" src="./assets/hot_beverage.gif" style="margin-left: 1.25rem" alt="A good cup of coffee"></h1>
-
-
+<div style="display: flex; align-items: center">
+	<h1 class="md-end-block md-heading">Hello, i'm Jonas Gonçalves</h1>
+    <img widht="58" height="58" src="./assets/hot_beverage.gif" style="margin-left: 1.25rem" alt="A good cup of coffee">
+</div>
 I am a guy who lives in Brazil, totally passionate about technology, development, good looking/experience designs and code communities.
 
 I am currently studying **web development** as my main goal, but i am studying **mobile development** as well, because i love booth of those technologies and i like to make things that works on booth platforms. 
